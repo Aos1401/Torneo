@@ -35,4 +35,5 @@ public class User {
 
     @Column(name="fifa_id")
     private String fifaId;
+
 }
